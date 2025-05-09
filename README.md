@@ -1,30 +1,22 @@
-# 👋 Hello I am Ravi Rathor
+<h1 align="center">Hi 👋, I'm Ravi Rathor</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-## 🎓 B.Tech CSE Student | 💻 Frontend Developer | 🚀 Startup Enthusiast
+- 🔭 I’m currently working on [AI chatbot](https://ravicyber8122004.github.io/Chat-bot/)
 
-I'm a Computer Science student passionate about building innovative digital solutions. I'm currently working on multiple real-world projects ranging from hospital , booking platforms to seminar hall systems and AI chatbots.
+- 🌱 I’m currently learning **Advanced Javascript , React**
 
----
+- 💬 Ask me about **Frontend Web Development , UI/UX design , frontend app development**
 
-### 🧠 Current Projects
-- **🏛️ Seminar Hall Booking System** – A full-stack portal for Poornima Institute's S.M. Seth Convection Center.
-- **🛒 AI-Powered E-Commerce Site** – A modern e-commerce website with advanced UI/UX and smart suggestions.
-- **🎵 Music Player App** – A custom-built frontend music player using HTML, CSS & JS.
+- 📫 How to reach me **ravirathor8122004@gmail.com**
 
----
+- ⚡ Fun fact **I think , I am a crazy**
 
-### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Flutter
-- **Database:** MySQL
-- **Other Tools:** Git, Figma, Android studio , visual studio code
-- **Deployment:** Netlify , github page
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravi-rathor-29831a355/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravi-rathor-29831a355/" height="30" width="40" /></a>
+<a href="https://instagram.com/@mr.ravi_cyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mr.ravi_cyber" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### 📫 Let's Connect!
-- 📧 Email: [ravirathor8122004@gmail.com]
-- 🔗 LinkedIn: [https://www.linkedin.com/in/ravi-rathor-29831a355/]
-
----
-
-> *"Code with purpose. Build with heart."*
